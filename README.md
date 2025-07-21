@@ -4,7 +4,7 @@ Under construction...
 This is the repository for the paper "Can DNN models simulate appearance variations of #TheDress?"
 
 ## Color-name labeling
-We used the color-name labeling algorithm proposed from Okubo et al., (2023).  
+We used the color-name labeling algorithm proposed by Okubo et al., (2023).  
 Blue-bias labeling: Labeling/ColorLabeling_BB.py  
 Non-blue-bias labeling: Labeling/ColorLabeling_nonBB.py  
 Dependencies:  

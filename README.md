@@ -7,7 +7,7 @@ This is the repository for the paper "Can DNN models simulate appearance variati
 We used the color-name labeling algorithm proposed from Okubo et al., (2023).  
 Blue-bias labeling: Labeling/ColorLabeling_BB.py  
 Non-blue-bias labeling: Labeling/ColorLabeling_nonBB.py  
-Dependency:  
+Dependencies:  
 Opencv-python  
 Numpy  
 Scilit-learn  

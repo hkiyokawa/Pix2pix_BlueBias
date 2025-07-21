@@ -8,9 +8,9 @@ We used the color-name labeling algorithm proposed from Okubo et al., (2023).
 Blue-bias labeling: Labeling/ColorLabeling_BB.py  
 Non-blue-bias labeling: Labeling/ColorLabeling_nonBB.py  
 Dependencies:  
-Opencv-python  >= 4.6.0.66
-Numpy  >= 1.19.5
-Scilit-learn  >= 1.5.4
+Opencv-python  >= 4.6.0.66  
+Numpy  >= 1.19.5  
+Scilit-learn  >= 1.5.4  
 
 ## The pix2pix model
 We used the PyTroch version of [Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master) (Isola et al. 2017)  

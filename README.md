@@ -3,6 +3,15 @@
 Under construction...  
 This is the repository for the paper "Can DNN models simulate appearance variations of #TheDress?"
 
+## Color-name labeling
+We used the color-name labeling algorithm proposed from Okubo et al., (2023).  
+Blue-bias labeling: Labeling/ColorLabeling_BB.py  
+Non-blue-bias labeling: Labeling/ColorLabeling_nonBB.py  
+Dependency:  
+Opencv-python  
+Numpy  
+Scilit-learn  
+
 ## The pix2pix model
 We used the PyTroch version of [Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master) (Isola et al. 2017)  
 The usage is the same as the original instruction.   

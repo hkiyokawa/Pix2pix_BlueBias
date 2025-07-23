@@ -17,7 +17,7 @@ We used the PyTroch version of [Pix2Pix](https://github.com/junyanz/pytorch-Cycl
 The usage is the same as the original instruction.   
 
 ## Pre-trained models.
-Examples of our pre-trained model across each blue bias image ratio: Link (TBA)  
+Examples of our pre-trained model across each blue bias image ratio: [Link] (https://osf.io/p8g9y/?view_only=2833c524b60446138dbb82579b4a5c27)  
 BB_[BB_ratio]: The models learned the blue-bias scene. [BB_ratio] indicates the ratio of blue bias images in the dataset.  
 B_[B_ratio]_Y_[Y_ratio]: The models learned color constancy varying the ratio of blue/yellow color shifts.  [B_ratio] and [Y_ratio] indicates the ratio of blue shift images and that of yellow shift images, respectively.   
 All images were selected from MSCOCO (Lin et al., 2014).  

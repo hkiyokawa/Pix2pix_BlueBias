@@ -19,7 +19,7 @@ The usage is the same as instructed in the original page.
 ## Pre-trained models
 Examples of our pre-trained model across each blue bias image ratio: [Link to OSF page](https://osf.io/p8g9y/?view_only=2833c524b60446138dbb82579b4a5c27)  
 BB_[BB_ratio]: The models learned the blue-bias scene. [BB_ratio] indicates the ratio of blue bias images in our training datasets.  
-B_[B_ratio]__Y__[Y_ratio]: The models learned color constancy varying the ratio of blue/yellow color shifts.  [B_ratio] and [Y_ratio] indicates the ratio of blue-shifted images and that of yellow-shifted images, respectively.   
+B_[B_ratio]\_Y\_[Y_ratio]: The models learned color constancy varying the ratio of blue/yellow color shifts.  [B_ratio] and [Y_ratio] indicates the ratio of blue-shifted images and that of yellow-shifted images, respectively.   
 
 ## Training datasets
 Our training data was a set of 600 images selected from the [MS COCO dataset](https://cocodataset.org/#home).

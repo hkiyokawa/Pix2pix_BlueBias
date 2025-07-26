@@ -22,4 +22,4 @@ BB_[BB_ratio]: The models learned the blue-bias scene. [BB_ratio] indicates the 
 B_[B_ratio]_Y_[Y_ratio]: The models learned color constancy varying the ratio of blue/yellow color shifts.  [B_ratio] and [Y_ratio] indicates the ratio of blue-shifted images and that of yellow-shifted images, respectively.   
 
 ## Training datasets
-Our training data was a set of 600 images selected from [MS COCO dataset](https://cocodataset.org/#home).
+Our training data was a set of 600 images selected from the [MS COCO dataset](https://cocodataset.org/#home).
